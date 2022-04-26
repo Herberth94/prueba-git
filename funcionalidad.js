@@ -1,3 +1,3 @@
 const hola =()=>{
-    alert("Hola mundo");
+    alert("Hola mundo")
 }
